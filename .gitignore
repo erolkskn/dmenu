@@ -1,0 +1,5 @@
+*.o
+*.a
+dmenu
+stest
+patches/
